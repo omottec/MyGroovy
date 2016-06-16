@@ -1,2 +1,4 @@
 # Generatee by MacOSX
 .DS_Store
+.idea/
+out/
